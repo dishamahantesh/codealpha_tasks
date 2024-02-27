@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "hey there!"
+    },
+    {
+      "question": "hi",
+      "answer": "hi"
+    },
+    {
+      "question": "atrey",
+      "answer": "harshitha my friend"
+    },
+    {
+      "question": "gayathri",
+      "answer": "she is vade!"
+    },
+    {
+      "question": "anusha",
+      "answer": "she is patient."
+    },
+    {
+      "question": "how are you?",
+      "answer": "i am doing great!!"
+    }
+  ]
+}
